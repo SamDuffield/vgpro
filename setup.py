@@ -4,7 +4,7 @@ with open('README.md') as f:
     long_description = f.read()
 
 setup(
-    name='wembley',
+    name='vgpro',
     version=0.1,
     url='https://github.com/SamDuffield/vgpro',
     author='Sam Duffield',
